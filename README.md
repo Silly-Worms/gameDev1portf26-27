@@ -19,6 +19,7 @@ Ship Movement controlled by mouse, Y level is limited
 Click to shoot lasers
 
 ## Additional Functions:
+A boss fight, Firing Enemies
 
 ## Testing
 Tested actions:
@@ -26,6 +27,7 @@ Expected result:
 Actual result:
 
 ## Project Files and Assets
+
 
 Assets Credits:
 
