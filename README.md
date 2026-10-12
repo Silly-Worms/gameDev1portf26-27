@@ -15,6 +15,8 @@ Main Project Folder: SpaceGame
 Required Libraries: gifAnimation, Sound
 
 ## Main Controls:
+Ship Movement controlled by mouse, Y level is limited
+Click to shoot lasers
 
 ## Additional Functions:
 
