@@ -14,6 +14,8 @@ Processing version: 4.0.1
 Main Project Folder: SpaceGame
 Required Libraries: gifAnimation, Sound
 
+## Main Controls:
+
 ## Additional Functions:
 
 ## Testing
