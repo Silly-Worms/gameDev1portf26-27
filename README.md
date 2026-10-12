@@ -6,4 +6,4 @@
 
 ![ParryGame2026](https://github.com/Silly-Worms/gameDev1portf26-27/blob/main/images/ParryGame_demo1.png?raw=true)
 
-[Source Code Link]()
+[Source Code Link](https://github.com/Silly-Worms/gameDev1portf26-27/tree/main/src/ParryGame)
